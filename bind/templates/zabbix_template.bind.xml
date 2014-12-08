@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
     <version>2.0</version>
-    <date>2014-03-12T10:01:14Z</date>
+    <date>2014-12-08T14:05:46Z</date>
     <groups>
         <group>
             <name>Templates</name>
@@ -11,6 +11,7 @@
         <template>
             <template>Template App Bind</template>
             <name>Template App Bind</name>
+            <description/>
             <groups>
                 <group>
                     <name>Templates</name>
@@ -63,6 +64,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries in AAAA</name>
@@ -105,6 +107,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries in ANY</name>
@@ -147,6 +150,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries in CNAME</name>
@@ -189,6 +193,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries in MX</name>
@@ -231,6 +236,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries in NS</name>
@@ -273,6 +279,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries in PTR</name>
@@ -315,6 +322,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries in SOA</name>
@@ -357,6 +365,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries in SPF</name>
@@ -399,6 +408,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries in TXT</name>
@@ -441,6 +451,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries out A</name>
@@ -483,6 +494,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries out AAAA</name>
@@ -525,6 +537,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries out ANY</name>
@@ -567,6 +580,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries out CNAME</name>
@@ -609,6 +623,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries out MX</name>
@@ -651,6 +666,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries out NS</name>
@@ -693,6 +709,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries out PTR</name>
@@ -735,6 +752,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries out SOA</name>
@@ -777,6 +795,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries out SPF</name>
@@ -819,6 +838,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Queries out TXT</name>
@@ -861,6 +881,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Stats AuthAns</name>
@@ -903,6 +924,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Stats Dropped</name>
@@ -945,6 +967,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Stats Duplicate</name>
@@ -987,6 +1010,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Stats Failure</name>
@@ -1029,6 +1053,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Stats FORMERR</name>
@@ -1071,6 +1096,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Stats NoauthAns</name>
@@ -1113,6 +1139,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Stats NXDOMAIN</name>
@@ -1155,6 +1182,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Stats Nxrrset</name>
@@ -1197,6 +1225,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Stats Recursion</name>
@@ -1239,6 +1268,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Stats Referral</name>
@@ -1281,6 +1311,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Stats SERVFAIL</name>
@@ -1323,6 +1354,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind Stats Success</name>
@@ -1365,6 +1397,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind TCP</name>
@@ -1407,6 +1440,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Bind UDP</name>
@@ -1449,6 +1483,7 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
                 <item>
                     <name>Number of running processes $1</name>
@@ -1491,12 +1526,109 @@
                         </application>
                     </applications>
                     <valuemap/>
+                    <logtimefmt/>
                 </item>
             </items>
             <discovery_rules/>
             <macros/>
             <templates/>
-            <screens/>
+            <screens>
+                <screen>
+                    <name>Bind</name>
+                    <hsize>2</hsize>
+                    <vsize>2</vsize>
+                    <screen_items>
+                        <screen_item>
+                            <resourcetype>0</resourcetype>
+                            <width>400</width>
+                            <height>100</height>
+                            <x>0</x>
+                            <y>0</y>
+                            <colspan>1</colspan>
+                            <rowspan>1</rowspan>
+                            <elements>0</elements>
+                            <valign>0</valign>
+                            <halign>0</halign>
+                            <style>0</style>
+                            <url/>
+                            <dynamic>0</dynamic>
+                            <sort_triggers>0</sort_triggers>
+                            <resource>
+                                <name>Bind Queries IN</name>
+                                <host>Template App Bind</host>
+                            </resource>
+                            <max_columns>1</max_columns>
+                            <application/>
+                        </screen_item>
+                        <screen_item>
+                            <resourcetype>0</resourcetype>
+                            <width>400</width>
+                            <height>100</height>
+                            <x>1</x>
+                            <y>0</y>
+                            <colspan>1</colspan>
+                            <rowspan>1</rowspan>
+                            <elements>0</elements>
+                            <valign>0</valign>
+                            <halign>0</halign>
+                            <style>0</style>
+                            <url/>
+                            <dynamic>0</dynamic>
+                            <sort_triggers>0</sort_triggers>
+                            <resource>
+                                <name>Bind Queries OUT</name>
+                                <host>Template App Bind</host>
+                            </resource>
+                            <max_columns>1</max_columns>
+                            <application/>
+                        </screen_item>
+                        <screen_item>
+                            <resourcetype>0</resourcetype>
+                            <width>400</width>
+                            <height>100</height>
+                            <x>0</x>
+                            <y>1</y>
+                            <colspan>1</colspan>
+                            <rowspan>1</rowspan>
+                            <elements>0</elements>
+                            <valign>0</valign>
+                            <halign>0</halign>
+                            <style>0</style>
+                            <url/>
+                            <dynamic>0</dynamic>
+                            <sort_triggers>0</sort_triggers>
+                            <resource>
+                                <name>Bind session open</name>
+                                <host>Template App Bind</host>
+                            </resource>
+                            <max_columns>1</max_columns>
+                            <application/>
+                        </screen_item>
+                        <screen_item>
+                            <resourcetype>0</resourcetype>
+                            <width>400</width>
+                            <height>100</height>
+                            <x>1</x>
+                            <y>1</y>
+                            <colspan>1</colspan>
+                            <rowspan>1</rowspan>
+                            <elements>0</elements>
+                            <valign>0</valign>
+                            <halign>0</halign>
+                            <style>0</style>
+                            <url/>
+                            <dynamic>0</dynamic>
+                            <sort_triggers>0</sort_triggers>
+                            <resource>
+                                <name>Bind statistics request in sec</name>
+                                <host>Template App Bind</host>
+                            </resource>
+                            <max_columns>1</max_columns>
+                            <application/>
+                        </screen_item>
+                    </screen_items>
+                </screen>
+            </screens>
         </template>
     </templates>
     <triggers>
